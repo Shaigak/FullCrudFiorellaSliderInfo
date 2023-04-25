@@ -15,12 +15,12 @@
         <span class="text-danger" asp-validation-for="Photo"></span>
      
         
-        
-        <input type="text" class="form-control" id="customFile" asp-for="Description" />
+        <span>Description</span>
+        <input type="text" class="form-control" id="customDesc" asp-for="Description" />
          <span class="text-danger" asp-validation-for="Description"></span>
          
-         
-         <input type="text" class="form-control" id="customFile" asp-for="Title" />
+         <span>Title</span>
+         <input type="text" class="form-control" id="customTitle" asp-for="Title" />
          <span class="text-danger" asp-validation-for="Title"></span>
 
       <div class="buttons my-3">
@@ -30,6 +30,16 @@
       </div>
 
     </form>
+
+     @section Scripts{
+          <script src="~/ckeditor/ckeditor.js"></script>
+
+    <script>
+        CKEDITOR.replace("customDesc")
+         CKEDITOR.replace("customTitle")
+        
+    </script>
+    }
 
 
 </div>
