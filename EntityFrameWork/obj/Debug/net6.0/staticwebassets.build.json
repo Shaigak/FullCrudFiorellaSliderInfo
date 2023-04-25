@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zJZykBFrp1JuxTIAxYH7Qi4/dgRXqT7X2lqsgjZm5PY=",
+  "Hash": "4P5emOGDaN+GDN7K2e4YquclycCIcwQT1AtighNUHko=",
   "Source": "EntityFrameWork",
   "BasePath": "_content/EntityFrameWork",
   "Mode": "Default",
@@ -10030,6 +10030,23 @@
       "OriginalItemSpec": "wwwroot\\img\\22af3760-8381-4f87-bb10-adebb56a4494 22-221879_-net-full-stack-developer.jpg"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\234d7e75-a09c-40cf-ae74-ff73903bc1f3 h3-team-img-2 (1).jpg",
+      "SourceId": "EntityFrameWork",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\",
+      "BasePath": "_content/EntityFrameWork",
+      "RelativePath": "img/234d7e75-a09c-40cf-ae74-ff73903bc1f3 h3-team-img-2 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\234d7e75-a09c-40cf-ae74-ff73903bc1f3 h3-team-img-2 (1).jpg"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\240d8867-279f-4e29-a330-e7ad18be073a 22-221879_-net-full-stack-developer.jpg",
       "SourceId": "EntityFrameWork",
       "SourceType": "Discovered",
@@ -10183,6 +10200,23 @@
       "OriginalItemSpec": "wwwroot\\img\\5041849f-b12e-4bb3-ae36-ee810689ef09 22-221879_-net-full-stack-developer.jpg"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\54fdbc27-b817-483f-a372-ce4ae615a3e5_h3-team-img-2 (1).jpg",
+      "SourceId": "EntityFrameWork",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\",
+      "BasePath": "_content/EntityFrameWork",
+      "RelativePath": "img/54fdbc27-b817-483f-a372-ce4ae615a3e5_h3-team-img-2 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\54fdbc27-b817-483f-a372-ce4ae615a3e5_h3-team-img-2 (1).jpg"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\58c02fbc-8898-441e-8c03-d493eb096ceb_22-221879_-net-full-stack-developer.jpg",
       "SourceId": "EntityFrameWork",
       "SourceType": "Discovered",
@@ -10300,6 +10334,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\899159ef-2e6c-43c8-8fbd-0aeeb055cda9 22-221879_-net-full-stack-developer.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\8d0dcf5f-b137-49ce-afbe-d3ac42d82d4d h3-team-img-2 (1).jpg",
+      "SourceId": "EntityFrameWork",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\",
+      "BasePath": "_content/EntityFrameWork",
+      "RelativePath": "img/8d0dcf5f-b137-49ce-afbe-d3ac42d82d4d h3-team-img-2 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\8d0dcf5f-b137-49ce-afbe-d3ac42d82d4d h3-team-img-2 (1).jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\8dce2b04-a27d-46c7-86f9-32fca09be633 pexels-cottonbro-studio-4709289.jpg",
@@ -10436,6 +10487,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\b2bd7c7a-2b15-40fc-8cf6-898b44b411d2 22-221879_-net-full-stack-developer.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\b38e2564-63f8-4100-9e0c-2baaa293e7f8 h3-team-img-2 (1).jpg",
+      "SourceId": "EntityFrameWork",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\",
+      "BasePath": "_content/EntityFrameWork",
+      "RelativePath": "img/b38e2564-63f8-4100-9e0c-2baaa293e7f8 h3-team-img-2 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\b38e2564-63f8-4100-9e0c-2baaa293e7f8 h3-team-img-2 (1).jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork\\wwwroot\\img\\bb72137c-6c8f-4f5c-9eba-f0d9cb7b61e5 22-221879_-net-full-stack-developer.jpg",
